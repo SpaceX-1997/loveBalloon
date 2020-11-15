@@ -43,12 +43,6 @@ var config = {
 <img src="./static/love-ballon.gif"/>
 
 
-## 结尾
-喜欢的话关注一下[霸都丶傲天](https://github.com/ajlovechina)呗~  \
-定期更新一下爱情网页模板,简历模板,知识笔记,PDF书籍,原创深度技术分享等 :heart:
-
-* 知乎:[霸都丶傲天](https://www.zhihu.com/people/AJLoveChina)
-* Github:[霸都丶傲天](https://github.com/ajlovechina)
 
 ## 链接
 * [第一期:爱情树 🌴将相爱的时刻永远珍藏 （微信，QQ可完美查看）](https://github.com/AJLoveChina/LoveTree)
